@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Kotlin Lesson 1</string>
     <string name="button">Button</string>
+    <string name="dataclass">DataClass</string>
+    <string name="object">Copy</string>
+    <string name="hello_kotlin">Hello, Kotlin!</string>
+    <string name="cycleOne">Цикл1</string>
+    <string name="cycleTwo">Цикл2</string>
 </resources>
